@@ -24,7 +24,7 @@ body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
     -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
-    background-color: #F0F5CE;
+    background-color: #192019;
     height:100%;
     margin:0px;
     padding:0px;
@@ -39,16 +39,17 @@ body {
     margin: 10px auto;
     border-radius: 10px;
     border: 1px solid #000;
-    background-color: #ddd;
+    background-color: #E4EDFF;
     padding: 15px 0;
 }
 
 .hds {
     padding: 10px;
-    font-weight: bold;
     font-size: 24pt;
+    color: #C9D8BF;
 }
 
 .ds {
     padding: 10px;
+    color: #FFF;
 }
